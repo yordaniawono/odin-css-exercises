@@ -1,1 +1,9 @@
 /* Add CSS Styling */
+
+.container .text {
+    background-color: oklch(94.5% 0.129 101.54);
+    color: oklch(58.6% 0.253 17.585);
+    font-size: 20px;
+    text-align: center;
+
+}
