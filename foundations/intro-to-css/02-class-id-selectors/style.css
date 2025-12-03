@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+.odd-number {
+    background-color: #fca5a5;
+    font-family: "DejaVu Sans", Verdana, sans-serif;
+    color: #000000;
+}
+
+#first-id {
+    color: #1d4ed8;
+    font-size: 36px;
+}
+
+.odd-number.large {
+    font-size: 24px;
+}
+
+#second-id {
+    background-color: #4ade80;
+    font-size: 24px;
+    font-weight: 700;
+}
